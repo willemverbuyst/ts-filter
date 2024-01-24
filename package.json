@@ -1,0 +1,15 @@
+{
+  "name": "ts-filter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx index.ts"
+  },
+  "keywords": [],
+  "author": "Willem Verbuyst",
+  "license": "ISC",
+  "dependencies": {
+    "tsx": "^4.7.0"
+  }
+}
